@@ -1,2 +1,0 @@
-# MovieDBReactJS
-Created with CodeSandbox
